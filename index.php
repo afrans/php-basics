@@ -9,6 +9,8 @@
 <body>
 
 <h1>PHP Basics</h1>
+<p> <?= date('Y'); ?> </p>
+
 
 </body>
 </html>
